@@ -1,5 +1,5 @@
 /**
- * Given the HTML below, please make the following changes with javascript – don't change any HTML!:
+ * Given the HTML below, ple – don't changease make the following changes with javascript any HTML!:
  *
  * 1. Any time someone clicks on the title at the top "feed template,"
  *    make the color of the "feed template" text change from black to red
